@@ -225,7 +225,7 @@ Be returned from functions
 Be stored in data structures like lists or dictionaries
 ```
 ### Pass by reference and pass by value
-
+```
 Mutable objects (lists, dicts, sets, etc.) → Passed by reference (modifications affect the original object).  
 Immutable objects (integers, strings, tuples, etc.) → Behave like passed by value (modifications inside the function do not affect the original).
 
