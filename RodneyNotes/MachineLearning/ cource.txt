@@ -1,0 +1,2 @@
+https://cs231n.github.io/
+https://pythonbasics.org/
