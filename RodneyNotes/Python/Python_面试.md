@@ -76,6 +76,15 @@ s[::-1] Reverses the string
 s[-1：-6：-1]
 s[5:]+s[:5] 
 ```
+### String Test
+```
+int number =0702
+str1 ='天王盖地虎，宝塔镇河妖'
+str2 = 'f9c99e90ec'
+
+print(str1[:-1:-1]
+print(str2[:1:-1]
+```
 #### String  Comparison and Concatenation
 ```
 print(s1.lower() == s2.lower())
@@ -237,4 +246,16 @@ numbers = [1, 2, 3]
 modify_list(numbers)
 print(numbers)  # Output: [1, 2, 3, 4]
 
+```
+### String Compare in Python
+```
+int number = 0701
+print("number is {}",%number)
+str ='天王盖地虎，宝塔镇河妖'
+print(str1 > str)
+str1='16b30ba1cf'
+str2= '16b30ba1cf'
+print(str1 == str2)
+print(str1 > str2)
+print(str1 > str)
 ```
