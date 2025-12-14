@@ -319,3 +319,17 @@ if __name__ == "__main__":
     print("Restored:", restored)
 
 ```
+### Dictionary Example
+```
+phone_book={
+"Wu YQ": "4083723001",
+"Wu YQ": "13715170556",
+"Wu Yuqin": "13138390880",
+"Chen SY": "13696887143",
+"Ruan SS": "18806027915",
+"Ruan JQ": "13799273910",
+"Ruan RH": "13313812231"
+"Happy Happy":"15219498529"
+}
+
+```
