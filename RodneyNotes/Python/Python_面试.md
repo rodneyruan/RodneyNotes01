@@ -249,12 +249,24 @@ print(numbers)  # Output: [1, 2, 3, 4]
 ```
 ### String Compare in Python
 ```
-int number = 0701
+int number = 701
 print("number is {}",%number)
+str1=0x16233baacf
+str2= '16233baacf'
+str3=0x76233ba1af
+str4= '76233ba1a3'
+print(str1 >= str2)
+print(str3 <= str4)
+str3='ABCD'
+str4= 'abcd'
+print(str3 == str4)# Case sensitive??
+str3 = str(76233ba1a3)
+str4= '76233ba1a3'
+print(str3 == str4)# 
 str ='天王盖地虎，宝塔镇河妖'
 print(str1 > str)
-str1='16b30ba1cf'
-str2= '16b30ba1cf'
+str1='16b30ba1cf' + '天王盖地虎，宝塔镇河妖'
+str2= '16b30ba1cf' + "天王盖地虎，宝塔镇河妖"
 print(str1 == str2)
 print(str1 > str2)
 print(str1 > str)
