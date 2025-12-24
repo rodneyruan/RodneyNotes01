@@ -78,7 +78,16 @@ s[5:]+s[:5]
 ```
 ### String Test
 ```
-int number =0702
+int number =702
+str1 = 'f9abcsdfdss332e90ec'
+print("{number}: {str1}")
+str2 = 'f3sd4s4xzxad34sdfdss332e90ec'
+print(str1[:-1:-1])
+print(str1[:-1])
+print(str1[:])
+print(str2[-1::])
+print(str1[:])
+print(str2[:-1:])
 str1 ='天王盖地虎，宝塔镇河妖'
 str2 = 'f9c99e90ec'
 
